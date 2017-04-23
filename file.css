@@ -100,11 +100,6 @@
 	margin: 0 auto;
 }
 
-.header .menu {
-	display: none;
-	background-color: white;
-}
-
 h1, p, li {
 	text-align: center;
 	color: white;
